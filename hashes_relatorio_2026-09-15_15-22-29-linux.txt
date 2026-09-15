@@ -1,0 +1,29 @@
+===============================================================
+ Relatorio de Reorganizacao, Compactacao e Hash - 2026-09-15_15-22-29
+ Algoritmo de hash: SHA256
+===============================================================
+
+----- Reorganizacao de pastas -----
+
+[AVISO] Pasta nao encontrada: C:\Users\edersonl\Downloads\Linux\x64
+[AVISO] Pasta nao encontrada: C:\Users\edersonl\Downloads\Linux\x86
+
+release 32
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx32_v1.3.1-release.zip : F8F1AD12BD8E775F05BA043568826F0FB5A1EE07FAFC994DCF7B95C4B66B55FD
+
+release 64
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx64_v1.3.1-release.zip : 8962CD11C4808457CED3BEAB1585B0B5F585F9FDB653B4C81029CFCB45FD8382
+
+debug 32
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx32_v1.3.1-debug.zip : 51562905A7C5F00CB61D28C3C78241023A649BC2A306DFFD825C2AFFF1B990F3
+
+debug 64
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx64_v1.3.1-debug.zip : C5B95DE08BFDC69650CD1505B4E03AD9388F28445C0FB71055FF762B717C3EB1
+
+===============================================================
+ Fim do relatorio
+===============================================================

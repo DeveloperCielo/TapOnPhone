@@ -1,0 +1,24 @@
+===============================================================
+ Relatorio de Compactacao e Hash - 2026-09-15_15-21-37
+ Algoritmo de hash: SHA256
+===============================================================
+
+release 32
+   clientconecta.dll : 66B937211509CB77C79EBED7841A6E3A427662555F7BF113AE5F571ACBAC7E03
+   ClientConecta-WINx32_v1.3.1-release.zip : 6196DF019E07227B0B1ADDCF409E0102C007FACA342A895C58B9CF91146FA58F
+
+release 64
+   clientconecta.dll : DD3195977F713BC6499E76CD7A6343C3F4DAEC432746E3752F8D36896D77AE34
+   ClientConecta-WINx64_v1.3.1-release.zip : 6BFC1D5A2FE71401CD0DD2A1C5CD9F738902C3C8180D28050212793E3ACF08A0
+
+debug 32
+   clientconecta.dll : DCD2B7D426047477E97439C3DA858AAE1F10D3B8FE89D7843B6B1074D947ADDD
+   ClientConecta-WINx32_v1.3.1-debug.zip : 94E4D0EB5955E105853FE3F1038A49CDC27FF84589AB1C89444F173C5BE17300
+
+debug 64
+   clientconecta.dll : 4614AE970A3F273E547096619350F11B0392A6FA2BAEACDEA8C4628144ACC665
+   ClientConecta-WINx64_v1.3.1-debug.zip : 994380B524F34DE25C52A841982501BE86ECA8C476AE21D4B2F2A810EE659464
+
+===============================================================
+ Fim do relatorio
+===============================================================
