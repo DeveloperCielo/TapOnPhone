@@ -1,0 +1,24 @@
+===============================================================
+ Relatorio de Compactacao e Hash - 2026-09-28_18-19-15
+ Algoritmo de hash: SHA256
+===============================================================
+
+release 64
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx64_v1.3.2-release.zip : CFC9EE414F0D94455C96A7873E8940F5917234F527DCB9ABF6F2BF5CCFB32636
+
+release 32
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx32_v1.3.2-release.zip : 7DBDBE165274F3946458B86C618FFCEEC872A6A58A4A9FE89892249857248BFE
+
+debug 64
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx64_v1.3.2-debug.zip : 6A79157BCE2DE35BFC0E003A14DDA5699FBB27D192774AD3F9940B3B545CC3E1
+
+debug 32
+   clientconecta.h : C5D30B3C04003B4309289862E5F77E021955D5C2AE43BDF69949EA64A7B4A9C2
+   ClientConecta-LINUXx32_v1.3.2-debug.zip : 6BC5CD144F15D3446BBFFDF12841204336AD634C945990461A9E00A1500B1468
+
+===============================================================
+ Fim do relatorio
+===============================================================
